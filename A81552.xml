@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dissertation upon the beginning of the next century: and the solution of the problem to know which of the two years 1700 or 1701 is the first of the next century? With some considerations about the observation of the year of Jubilee. Translated out of French.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81552</idno>
+            <idno type="STC">Wing D1689A</idno>
+            <idno type="STC">ESTC R231939</idno>
+            <idno type="EEBO-CITATION">99900079</idno>
+            <idno type="PROQUEST">99900079</idno>
+            <idno type="VID">133306</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133306)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2512:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dissertation upon the beginning of the next century: and the solution of the problem to know which of the two years 1700 or 1701 is the first of the next century? With some considerations about the observation of the year of Jubilee. Translated out of French.</title>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by J. Nutt, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Millennium --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133306:1" rendition="simple:additions"/>
+            <p>A DISSERTATION UPON THE Beginning of the next CENTURY: AND THE Solution of the Problem; To Know Which of the two Years 1700 or 1701 is the firſt of the next Century?</p>
+            <p>With ſome Conſiderations about the Obſervation of the Year of Jubilee.</p>
+            <p>Tranſlated out of French.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>J. Nutt,</hi> near <hi>Stationers-Hall,</hi> MDCXCIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dissertation">
+            <pb facs="tcp:133306:2"/>
+            <pb n="1" facs="tcp:133306:2"/>
+            <head>A DISSERTATION Upon the Beginning of the Next <hi>CENTURY,</hi> &amp;c.</head>
+            <p>THE approach of the next Century has occaſion'd ſeveral Diſputes upon the Queſtion, Whether it will be<g ref="char:EOLhyphen"/>gin in the Year 1700, or 1701? Some are of Opinion, that 1700 ſtill belongs to this pre<g ref="char:EOLhyphen"/>ſent Century; and others affirm, that it will end with this preſent Year, 1699. Several Wagers have been laid about it, which are as yet undecided; both ſides being very po<g ref="char:EOLhyphen"/>ſitive, either out of Obſtinacy, or for want of a true Notion of the matter. Beſides that, in theſe Caſes, the deſire of Winning, or the fear of Loſing, often hinders us from
+<pb n="2" facs="tcp:133306:3"/>ſeeing the Truth as we would do, were we not blinded by Prejudice or Intereſt. The main Reaſons urg'd on both ſides are theſe.</p>
+            <p>Thoſe who affirm that 1700 is the firſt Year of the next Century, Argue thus. A Year is never reckon'd until it is ended, nor a hundred Years until they are compleated. We never ſay that a Child is a Year old un<g ref="char:EOLhyphen"/>til the twelve Months from his Birth are actu<g ref="char:EOLhyphen"/>ally accompliſh'd. Neither did the World begin to reckon one Year until the expiration of the twelve Months from the Nativity of <hi>Jeſus Chriſt,</hi> and conſequently the firſt hun<g ref="char:EOLhyphen"/>dred Years were not reckon'd ſo, till after the expiration of the ſaid hundred Years. The ſame Rule ſtands good for all the ſuc<g ref="char:EOLhyphen"/>ceeding Ages: And therefore, ſay they, we do conclude, that as as ſoon as 1700 will be reckon'd, the 17th Century will be ended, and that the Year 1700 does intirely belong to the next Century; at the end of which, we will begin to reckon 1, or 1701, which will denote one Year already elaps'd.</p>
+            <p>The others, on the contrary, ſay, That it was not neceſſary to tarry for the concluſion
+<pb n="3" facs="tcp:133306:3"/>of the firſt Year of the Epact to reckon one, the Unite having been apply'd from the be<g ref="char:EOLhyphen"/>ginning of the Year to the end, as it appears by cuſtom: For Inſtance, do we not reckon 1699, from the Month of <hi>January</hi> unto the Month of <hi>December?</hi> Conſequently 1699 will not be ended until we ceaſe to reckon it. So likewiſe the Month of <hi>January</hi> of the Year 1700, will only be the Introduction of the laſt Year of this Century, which will end ex<g ref="char:EOLhyphen"/>actly when we ceaſe to reckon 1700, and therefore the next Century will only begin when we reckon 1701.</p>
+            <p>Some Perſons fancy they decide the Que<g ref="char:EOLhyphen"/>ſtion, in ſaying, That the firſt eight Days from the Nativity of <hi>Jeſus Chriſt</hi> to his Cir<g ref="char:EOLhyphen"/>cumciſion, have paſs'd for a Year, and that one was reckon'd from the firſt of <hi>January,</hi> on which Day our Saviour was Circumcis'd. But, in my Opinion, none of them have ſta<g ref="char:EOLhyphen"/>ted the Queſtion right.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:133306:4"/>
+               <head>The <hi>Solution</hi> of the <hi>Problem;</hi> to how wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch of the Years <hi>1700,</hi> or <hi>1701,</hi> is the firſt of the next <hi>Cen<g ref="char:EOLhyphen"/>tury?</hi>
+               </head>
+               <p>Before we reſolve this Queſtion, it will be fit to Note,</p>
+               <p>
+                  <hi>Firſt,</hi> That a Number is only to be con<g ref="char:EOLhyphen"/>ſider'd in relation to the Sum of the Unites which it contains, and then we uſe theſe Words, <hi>Two, Three, Four,</hi> &amp;c. which de<g ref="char:EOLhyphen"/>note that the Number is compleated, and that Number is call'd the Cardinal Number.</p>
+               <p>
+                  <hi>Secondly,</hi> When we conſider a Number as expreſſing the <hi>Quotus</hi> of ſeveral Units, we uſe one of theſe Words, <hi>Firſt, Second, Third, Fourth,</hi> &amp;c. which barely expreſs the order of things, and we call that Number, <hi>the Or<g ref="char:EOLhyphen"/>dinal Number.</hi>
+               </p>
+               <pb n="5" facs="tcp:133306:4"/>
+               <figure>
+                  <head>EXAMPLE.</head>
+               </figure>
+               <p>Be the Line A, B. which repreſents four Spaces of time, or of Extent. In Order to expreſs the Sum of all the Spaces from A to E, we uſe the Cardinal Number. <hi>Three</hi> or 3. But if we have only a mind to know which <hi>Quotus</hi> of theſe Spaces is the Line D E we uſe the <hi>Ordinal Number, Third,</hi> or 3d. and all the Points from D to E belong to the 3d. Space.</p>
+               <p>Thirdly, You muſt alſo Note, that the <hi>Car<g ref="char:EOLhyphen"/>dinal Number</hi> is us'd in anſwer to the Queſti<g ref="char:EOLhyphen"/>on, <hi>how many?</hi> or <hi>how much time?</hi> in <hi>Latin Quot?</hi> or <hi>Quandiu?</hi> For inſtance, if any one ſhould ask how many Foot a Lineal Fathom do's contain? It would be anſwer'd, Six. How much time do's the Sun employ in ſurrounding the Circle of the Equator? 24 Hours. But the <hi>Ordinal Number</hi> is us'd in an<g ref="char:EOLhyphen"/>ſwering the Queſtion, <hi>When,</hi> (Quando?)</p>
+               <pb n="6" facs="tcp:133306:5"/>
+               <p>Example, When, or what time was St. <hi>John</hi> inſpir'd by God, to come out of the De<g ref="char:EOLhyphen"/>ſart to Preach the Baptiſm of Repentance? The anſwer is, in the 15th Year of the Reign of <hi>Tiberius, Anno quinto decimo Imperii Tiberii Caeſaris.</hi> The <hi>Ordinal Number</hi> is alſo us'd in anſwer to the Queſtion, <hi>what, when,</hi> or <hi>what time,</hi> or <hi>on what,</hi> Quotus? For inſtance, on what Day of the Month of <hi>December</hi> was <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt</hi> Born? on the 25th, &amp;c.</p>
+               <p>
+                  <hi>Fourthly,</hi> It is true that the <hi>Cardinal Number</hi> can only be apply'd to the Spaces of time, after they are expir'd; but the <hi>Ordinal Num<g ref="char:EOLhyphen"/>ber</hi> may be always apply'd to all manner of Spaces from the Beginning to the End. For inſtance, we cannot ſay that a Man is 30 Years Old until they are compleated: But we may ſay that he is in his 30th Year, when the 30th is actually running on.</p>
+               <div type="solution">
+                  <head>The <hi>SOLUTION.</hi>
+                  </head>
+                  <p>This being premis'd, I ſay the next Cen<g ref="char:EOLhyphen"/>tury will not begin until 1701; and that the whole Year, from 1700 to 1701 ſtill belongs
+<pb n="7" facs="tcp:133306:5"/>to this Century. The reaſon of it is, that the <hi>Ordinal Number</hi> is us'd to expreſs the time in which an Action was perform'd. For in<g ref="char:EOLhyphen"/>ſtance, we ſay the City and Fort of <hi>Barſelona</hi> were Surrender'd to his Majeſty on the 10th of <hi>Auguſt,</hi> 1697. In Latin, <hi>Die decima Au<g ref="char:EOLhyphen"/>guſti anno Milleſimo Sexcenteſimo Nonageſimo Sep<g ref="char:EOLhyphen"/>timo.</hi> For when we ask in what Year any thing was Tranſacted, we do not look for the preciſe Number of the Years that are ex<g ref="char:EOLhyphen"/>pir'd, from the beginning of the Chriſtian <hi>Era,</hi> to the time of the ſaid Tranſaction; but we look for the <hi>Quotus</hi> of thoſe Years in which the ſaid caſe was tranſacted, and we impute to that Year whatever was tranſact<g ref="char:EOLhyphen"/>ed in the interval of the 12 Months that compoſe the ſaid Year. So that when we ſay that we are in the Year 1699, it do's not im<g ref="char:EOLhyphen"/>ply that the Number of 1699 Years is com<g ref="char:EOLhyphen"/>pleated from the beginning of the Chriſtian <hi>Era</hi> to this time, but that the, 1699th Year is actually running on: and whatever may be Tranſacted from this Moment to the very laſt of the Month of <hi>December</hi> next coming, will belong to this Year 1699. For this Reaſon,
+<pb n="8" facs="tcp:133306:6"/>when ever we ſhall begin to reckon 1700, we will only be at the beginning of the 1700th Year. Now the 1700th Year do's ſtill belong to the preſent Century, by reaſon that a Century containing a Hundred Years inclu<g ref="char:EOLhyphen"/>ſively, it cannot end before the Concluſion of the 100th Year, and Conſequently 1700 is the laſt Year of the preſent Century, and 1701 the firſt of the next.</p>
+                  <p>Finally, It is not material in order to re<g ref="char:EOLhyphen"/>ſolve the Queſtion, to know preciſely in what Year <hi>Jeſus Chriſt</hi> came into the World, ſeeing that this preſent 1699th Year having 9 for its Golden Number, the firſt of the Years of the Chriſtian <hi>Era,</hi> according to which we reckon, had 2 for its Golden Number, which anſwer'd the 46th <hi>Julian</hi> Year, whether it were that the ſaid firſt Year was that which was conſecrated by the Incarnation and Na<g ref="char:EOLhyphen"/>tivity of the Son of God, or whether it were the firſt of thoſe that follow'd that Bleſſed Nativity: For tho Chronologers do not a<g ref="char:EOLhyphen"/>gree about the time in which <hi>Jeſus Chriſt</hi> came into the World, they agree neverthe<g ref="char:EOLhyphen"/>leſs, that the firſt Year of the Chriſtian <hi>Era,</hi>
+                     <pb n="9" facs="tcp:133306:6"/>according to which we uſually reckon, had 2 for its Golden Number, and anſwer'd the 46th <hi>Julian</hi> Year.</p>
+               </div>
+               <div type="objection">
+                  <head>OBJECTION.</head>
+                  <p>The <hi>Ordinal Number</hi> is us'd to reckon the order of the Hours of the Day; and yet we never reckon the firſt Hour until it is ex<g ref="char:EOLhyphen"/>pir'd, <hi>&amp;c.</hi> Years are like Days in this caſe, and therefore when we reckon the 100th Year, it is already ended, <hi>&amp;c.</hi>
+                  </p>
+                  <p>To this, I anſwer, That there is a great diſparity in the caſe, and that when Men firſt undertook to reckon the Hours of the Day, they obſerv'd, in the firſt place, that the Sun daily trac'd a Circle about the Earth, from which they inferr'd, that dividing the ſaid Circle into 24 equal parts, and the time which the Sun imploys in ſurrounding the ſaid Circle alſo into 24 parts, they would have 24 Times anſwering the 24 Spaces of the circumference of the Diurnal Circle. In the next place, to fix thoſe Spaces, and to make them ſenſible, by the help of ſome Machine; the nature of
+<pb n="10" facs="tcp:133306:7"/>the movement of the Sun did direct them to deſcribe a Circle to repreſent the diurnal Circle of the Sun, which they divided into 24 equal parts, by 24 Lines drawn from the Center to the Circumference; and determin<g ref="char:EOLhyphen"/>ing one of thoſe Lines to repreſent the mid<g ref="char:EOLhyphen"/>dle of the Day, which they call'd Noon, they accuſtom'd themſelves to reckon the Hours upon different Lines. So that having plac'd this Circle, thus prepar'd with a perpendicu<g ref="char:EOLhyphen"/>lar ſide, into the Center in the Plan of the Equator, in ſuch a manner, that one of thoſe Lines was in the Plan of the Meredian Cir<g ref="char:EOLhyphen"/>cle, they found a very plain and very natural Machine to determine the different Times of the Day. This they call'd an Equinoxial, or Aſtronomical Dyal, and the Moment on which the ſhadow of the Sun was upon the Meridian Line, they call'd the Hour of Noon, and ſo on, reckoning the Hours up<g ref="char:EOLhyphen"/>on the different Lines. In ſo much that thoſe Hours are not ſo much Spaces of Time, as the Moments that divide thoſe Spaces. For the Hour of Noon (for Inſtance) is no<g ref="char:EOLhyphen"/>thing but the Moment which divides the Day
+<pb n="11" facs="tcp:133306:7" rendition="simple:additions"/>into two equal parts. The other Hours are anſwerable to this, and may be call'd. Lineal Hours, as <hi>Iſaiah</hi> has it, Chap. 38. v. 8. where he ſays, that the ſhadow of the Sun turn'd back ten Lines upon the Dyal of <hi>Achaz,</hi> that is ten Hours, <hi>Et reverſus eſt Sol decem Lineis per gradus quos deſcenderat.</hi>
+                  </p>
+                  <p>But when they had a mind <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſix their Actions on more conſiderable Spaces of Time, they reckon'd quite otherwiſe. For Inſtance, the <hi>Jews,</hi> beſides the common Hours which they trac'd upon their Dyals by Lines, of which 12 ſerv'd for the Day, and the reſt for the Night, did divide the Day into four parts, which they call'd <hi>Stationary</hi> Hours, and the Night likewiſe into four parts, which they call'd Watches. The firſt <hi>Stationary</hi> Hour began with the riſing of the Sun, and did end at the third Lineal Hour of the Day, and whatever was tranſacted in that Inter<g ref="char:EOLhyphen"/>val of time, was ſaid to be done in the firſt Hour. The ſecond <hi>Stationary</hi> Hour began at the third Line, and did end at the ſixth, which did anſwer to Noon. And the third <hi>Stationary</hi> Hour began at the ſixth Line and
+<pb n="12" facs="tcp:133306:8"/>did end at the 9th. So that when St. <hi>John</hi> ſays, that <hi>Jeſus Chriſt</hi> was Condemn'd by <hi>Pi<g ref="char:EOLhyphen"/>late</hi> about the 6th Hour, he reckon'd by the Lineal Hours, according to the firſt manner, that is, that it was about Noon: And when St. <hi>Mark</hi> ſays, that he was Crucified at the third Hour, he reckon'd by the <hi>Stationary</hi> Hours, that is, at the beginning of the third Space, from the ſixth Line to the ninth.</p>
+                  <p>But the order of Years is not calculated by the Moments that divide them the one from the other; but by very conſiderable ſpaces of time to which Men fix their Actions. And as all the Moments that ſlide away from the beginning of the firſt Month of a Year do belong to that firſt Month; ſo likewiſe all the Moments that ſlide away, or run on from the beginning of a Year unto the end thereof, do belong to that Year, and what<g ref="char:EOLhyphen"/>ever is tranſacted in one of thoſe Moments, is ever fix'd to that Year, whether done to<g ref="char:EOLhyphen"/>wards the beginning, middle, or end. This Method is practis'd by all Chronological Hiſtorians, who fix to the firſt Year of a Century, whatever remarkable Events have
+<pb n="13" facs="tcp:133306:8"/>fallen out from the firſt Moment of that Century, until the twelve Months that com<g ref="char:EOLhyphen"/>poſe that firſt Year are abſolutely compleat<g ref="char:EOLhyphen"/>ed; and in the ſame manner to the firſt Century, what ever was done in the whole ſpace of the hundred Years of which it is compos'd. And they follow the ſame Method, in fixing to the firſt Year of a Kings Reign what ever has been tranſacted from the Moment of his Being Crown'd or Proclaim'd King, until the ſpace of the firſt twelve Months is abſolutely accompliſh'd.</p>
+                  <p>Thoſe who are deſirous to know the time on which the holy Year, or the Year of the univerſal <hi>Jubilee</hi> is to begin, are to ob<g ref="char:EOLhyphen"/>ſerve that <hi>Boniface</hi> the 8th did inſtitute the <hi>Jubilee,</hi> in imitation of the <hi>Iſraelites,</hi> in the Year 1300. Ordaining at the ſame time that the Indulgences of the <hi>Jubilee</hi> ſhould be renew'd every hundred Year; for which Reaſon e<g ref="char:EOLhyphen"/>very 100th Year has been term'd a holy Year, ever ſince the ſaid Inſtitution. After him <hi>Clement</hi> the VIth decreed that the ſaid Indulgences ſhould be renew'd every fifty
+<pb n="14" facs="tcp:133306:9"/>Years; thus making the 100th, and 50th Years Jubilary. Laſtly, <hi>Xiſtus</hi> the IV. fixt it on the 25th Year; ſo that we have an uni<g ref="char:EOLhyphen"/>verſal <hi>Jubilee</hi> every 25 Years.</p>
+               </div>
+            </div>
+         </div>
+         <div type="letters">
+            <pb n="15" facs="tcp:133306:9"/>
+            <head>A CRITICAL LETTER, From <hi>M</hi>— Batchelor in Divinity, to the Author of the Diſſertation upon the beginning of the next Century. With an Anſwer to the ſaid Letter.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR</salute>
+                  </opener>
+                  <p>I Was not deceiv'd in the hopes I conceiv'd, at the ſight of the Title of the <hi>Diſſertati<g ref="char:EOLhyphen"/>on upon the next Century,</hi> of meeting ſomthing therein both ſurpriſing and new. I muſt confeſs, that it never enter'd into my thoughts, that any Man could imagin, that the Year 1700 ſhould be the firſt of the next Centu<g ref="char:EOLhyphen"/>ry; and yet I find that you do not only ſuppoſe, but alſo endeavour to refute that Error by ſolid Reaſons, and to eſtabliſh your Opinion, which is every Bodies. But as it
+<pb n="16" facs="tcp:133306:10"/>often happens, that in endeavouring to de<g ref="char:EOLhyphen"/>fend Truth, we expoſe it by a weak defence, preferring weak Proofs before ſolid convin<g ref="char:EOLhyphen"/>cing Reaſons, by which means we loſe ſight of it, or at moſt retain but a ſlight glance thereof, as it were through a Miſt: or fi<g ref="char:EOLhyphen"/>nally, in combating the Enemies of it, with Arguments that produce Effects directly op<g ref="char:EOLhyphen"/>poſite to thoſe they ſhould naturally pro<g ref="char:EOLhyphen"/>duce. I fear we are fallen into this misfor<g ref="char:EOLhyphen"/>tune in the Problem, <hi>viz.</hi> Which of the two Years 1700, or 1701, begins the next Century. You promiſe to deſtroy the Opi<g ref="char:EOLhyphen"/>nion of thoſe who ſay, that 1700 begins the next Century, by Reaſons that are to prove, that it will only begin with the Year 1701. You are not ignorant that it is im<g ref="char:EOLhyphen"/>poſſible to deſtroy an Opinion by the ſame Argument that is us'd to prove it. Let us examin in few words, whether this be true? <hi>Thoſe who affirm,</hi> ſay you, <hi>that</hi> 1700 <hi>is the firſt Year of the next Century, argue thus. A Year is only reckon'd after it is ended, and a hundred Years after they are paſt and compleated. We never ſay, that a Child is a Year old until the</hi> 12 <hi>Months
+<pb n="17" facs="tcp:133306:10"/>from his Birth are expir'd. Neither did the World be<g ref="char:EOLhyphen"/>in to reckon one Year until the expiration of the twelve Months from the Nativity of</hi> Jeſus Chriſt; <hi>and conſequently the firſt hundred Years were not reckon'd ſo, till after the expiration of the ſaid hundred Years: And therefore,</hi> ſay they, <hi>we do conclude, that as ſoon as the World will begin to reckon</hi> 1700, <hi>the</hi> 17th <hi>Century will be ended.</hi> This is the firſt Argu<g ref="char:EOLhyphen"/>ment you put into the Mouth of thoſe you fancy you are combating with. If they are perſons of Merit, you injure them in making them argue ſo ill: If they are Fools, you are to blame to loſe your time in refuting their Follies: Such Fooleries are beneath a Man of your Character. I am ſurpris'd at your not having ſhewn the Weakneſs of their Argument, you would have found that it concludes de<g ref="char:EOLhyphen"/>monſtrativety againſt them, in this manner. If Men only begin to reckon a hundred Years af<g ref="char:EOLhyphen"/>ter they are expir'd, it follows of neceſſity, that when we begin to reckon 1700, the 17th Century will be begun; and if the 17th Cen<g ref="char:EOLhyphen"/>tury do's begin at that time, it cannot be end<g ref="char:EOLhyphen"/>ed. To deal plainly with you, I am afraid you have only rais'd a Phantaſm to have the pleaſure of encountring it, being perſwaded
+<pb n="18" facs="tcp:133306:11"/>that there never was any Man ſo deſtitute of Senſe, as to imagin that the 17th Century is the beginning of the 18th. For my part, I am not liable to that cenſure, ſince you give me cauſe to remove the difficulties, which your <hi>Diſſertation</hi> might raiſe in ſome Men's minds concerning the next Century. There is no need of knowing what the Chriſtian <hi>Era</hi> is, nor when the World firſt began to reckon the Years after the Nativity of <hi>Jeſus Chriſt.</hi> It is ſuf<g ref="char:EOLhyphen"/>ficient to know, that Men commonly reckon from the Nativity of <hi>Jeſus Chriſt</hi> to this Day 1699 Years begun. And tho' it is undenia<g ref="char:EOLhyphen"/>ble, that <hi>Dennis the Little,</hi> who made the Calen<g ref="char:EOLhyphen"/>dar to reckon by the Years of <hi>Jeſus Chriſt</hi> in<g ref="char:EOLhyphen"/>ſtead of thoſe of the Conſuls, has plac'd the Nativity of <hi>Chriſt</hi> four Years later than he ſhould have done; the Queſtion is ſtill the ſame. This being premis'd, I ſay that by the Epact of the ſaid <hi>Dennis,</hi> which we follow, the Year 1700 is the laſt of the Century, and 1701 the beginning of the next. I do demonſtrate it thus, 1700 Years compleated make up 17 entire Centuries: Now in 17 entire Centuries there can be nothing of the 18th. Conſe<g ref="char:EOLhyphen"/>quently, the Year 1700 ended, is not the be<g ref="char:EOLhyphen"/>ginning
+<pb n="19" facs="tcp:133306:11"/>of the next Century. The number of compleated Years (for inſtance) is like the number of Sheep, of Oxen, of Pounds, <hi>&amp;c.</hi> Now as it would be ridiculous to ſay that a hundred Sheep, Oxen, or Pounds, <hi>&amp;c.</hi> are the beginning of a ſecond hundred, ſo it would be abſur'd to think that 17 compleat Centuries can have any thing of the 18th in them; and therefore 1700 cannot be the begin<g ref="char:EOLhyphen"/>ning of 1701. Unites are the beginnings of all Numbers whatever, from whence it fol<g ref="char:EOLhyphen"/>lows that the firſt Year after 1700 complea<g ref="char:EOLhyphen"/>ted begins the next Century. Moreover if 1700 was the beginning of the next Century, the Year 1699 would end the 17th; which would be as ridiculous, as to ſay that 99 Pounds are a hundred. This, Sir, in my O<g ref="char:EOLhyphen"/>pinion, was the way to ſilence thoſe who are fooliſh enough to imagin that 1700 can be the beginning of the 18th Century: for I look upon all your terms of <hi>Sums, Units, Cardinal and Ordinal Numbers,</hi> your Queſtions by <hi>how many?</hi> or <hi>how much time? in what Place, or at what time?</hi> to be much fitter for the Schools, than to de<g ref="char:EOLhyphen"/>termin ſuch ridiculous Queſtions as theſe. We ſhould contemn them, according to the dire<g ref="char:EOLhyphen"/>ction
+<pb n="20" facs="tcp:133306:12"/>of the Holy Ghoſt, nor anſwer a Fool for fear of catching his diſeaſe. <hi>Ne reſpondeas Stulto juxta ſtultitiam ſuam, ne efficiaris ei ſimiles.</hi> I am ſenſible, and ſo are you, that the num<g ref="char:EOLhyphen"/>ber of Fools is very conſiderable: Let us ne<g ref="char:EOLhyphen"/>ver give ear to their diſcourſes, which have no ſolidity, and can never edify nor ſatisfy the Mind. <hi>Doctrina Stultorum fatuitas.</hi> It is the beſt way not to increaſe their Number. I am, <hi>&amp;c.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>An Anſwer to the Letter of <hi>M</hi>—</head>
+                  <opener>
+                     <salute>SIR</salute>
+                  </opener>
+                  <p>JUST now I receiv'd an Anonimous Letter, written with your own Hand, in which you are pleas'd to cenſure ſome Paſſages of the <hi>Diſſertation</hi> upon the Beginning of the next Century. You accuſe me of being guilty of a <hi>Paralogiſm</hi> in the Argument I put into the Mouth of thoſe who affirm that 1700 is the beginning of the next Century. Had you minded the matter attentively, you would have found, that ſince they pretend that we ought
+<pb n="21" facs="tcp:133306:12"/>not to begin to reckon 100 until the 100 Years are compleated; it was abſolutely neceſſary to draw the Conſequence I have drawn from thence, which is, that according to that Argu<g ref="char:EOLhyphen"/>ment, as ſoon as we begin to reckon 1700, 1700 Years will be compleated, which is as much as to ſay, that the 17th Century will be ended. You ſay, on the contrary, that I ſhould have ſaid, the 17th will be begun. The truth is, it will be ſo far begun, that it will want but one Year of being ended. I find that the word <hi>begun</hi> has dazzled your Eyes: and yet, methinks, that word ſhould not have ſtart<g ref="char:EOLhyphen"/>led you ſo much, ſeeing that according to your way of arguing about Oxen and Sheep, Men never rekon 100 Bullocks until they have them, and as ſoon as they begin to reckon 100, the number of the ſaid 100 Bullocks is complea<g ref="char:EOLhyphen"/>ted. For that very reaſon it was neceſſary, in order to diſcover the knot of the Queſtion, to how the difference there is between two ways of reckoning the Spaces of Time.</p>
+                  <p>You add, that I am to blame in loſing my time in refuting ſuch Fooleries. You might have cenſur'd me with more juſtice, for not ha<g ref="char:EOLhyphen"/>ving taken more care, after having made them
+<pb n="22" facs="tcp:133306:13"/>argue thus, to ſhew the defect of their Argu<g ref="char:EOLhyphen"/>ment: For after having nakedly expos'd two different Arguments upon one and the ſame Subject; I barely made ſome Remarks upon the nature of the Queſtion, ſhewing two dif<g ref="char:EOLhyphen"/>ferent manners of reckoning Years, the one by the <hi>Cardinal,</hi> and the other by the <hi>Ordinal Number.</hi> You ſay moreover, <hi>That ſuch Trifles are below a Man of my Character.</hi> This Reproach is very different from other Cenſures that have been made upon the ſaid <hi>Diſſertation.</hi> Be pleas'd to mind them a little.</p>
+                  <p>Several Gentlemen, that are reputed Men of Senſe, have found fault with my boldneſs in deciding a Queſtion which the Court of <hi>Rome</hi> has not determined, and which ſeveral Doctors in Divinity have lookt upon to be ſo nice and full of difficulties, that they would not preſume to affirm any thing, <hi>pro</hi> or <hi>con,</hi> in the ma ter. To this I anſwer'd, That if the Court of <hi>Rome</hi> and the ſaid Doctors in Divini<g ref="char:EOLhyphen"/>ty have ſaid nothing about it, it was becauſe they did not foreſee that ſuch a Queſtion ſhould ever have been propos'd, or did not think that it had any relation to Divinity; it belonging purely to human Sciences.</p>
+                  <pb n="23" facs="tcp:133306:13"/>
+                  <p>Others have found fault with my uſing Ma<g ref="char:EOLhyphen"/>thematical Arguments to prove my Opinion, without ſo much as quoting the leaſt Authori<g ref="char:EOLhyphen"/>ties for it. To theſe I could anſwer, That the knowledge of Times properly belongs to that Science; and that the reaſon of my not giving Authorities was, that I thought them need<g ref="char:EOLhyphen"/>leſs, to confirm things that are evidently de<g ref="char:EOLhyphen"/>monſtrated by the bare light of Reaſon. Ne<g ref="char:EOLhyphen"/>vertheleſs, ſince they deſire Authorities, I re<g ref="char:EOLhyphen"/>fer them to a very authentick one in the Di<g ref="char:EOLhyphen"/>ctionary of the <hi>French Academy,</hi> which ſays, ſpeaking of the Year 1601, That it was the firſt of the Century: as alſo to the Aſtronomi<g ref="char:EOLhyphen"/>cal Tables of <hi>M. de la Hire,</hi> of the <hi>Royal Academy of Sciences,</hi> in which they will not only find the Authority of a Man of his Learning; but alſo Calculations that will diſcover the truth of the matter to them. I alſo give them the Opinion of Monſieur <hi>Varignon,</hi> a Member of the ſame <hi>Royal Academy of Sciences,</hi> who is ſo clear ſighted, and ſo methodical, that he can<g ref="char:EOLhyphen"/>not poſſibly fall into an Error out of preju<g ref="char:EOLhyphen"/>dice. I believe farther, that I may preſume to affirm, that the whole Body of that famous Academy is of my Opinion.</p>
+                  <pb n="24" facs="tcp:133306:14"/>
+                  <p>Others have objected, that Pope <hi>Gregory</hi> the XIII. has decided the contrary, in ordaining that during the ſpace of 400 Years, 3 Biſſex<g ref="char:EOLhyphen"/>tile ſhould be omitted in the 3 firſt Years of the hundreds; for, ſay they, the Calculations that are made to find the Dominical Letters, and the Epacts, are made for the Years of this Century to 1700 excluſively: Therefore ſay they again 1700 is excluded out of this Cen<g ref="char:EOLhyphen"/>tury, and conſequently belongs to the next. To this I anſwer, that the Conſequence is not good, the omiſſion of the Biſſextiles in the 100th Years being Arbitrary, in ſo much that it might as well have been made in the 96th Year; and then the Calculations for the Do<g ref="char:EOLhyphen"/>minical Letters and the Epacts would have been made for the Years until the 96th Year of the Century excluſively, and yet it would have been ridiculous to ſay that the Year 1696 did belong to the next Century, on the ac<g ref="char:EOLhyphen"/>count of that excluſion.</p>
+                  <p>Others ſay, that I have not ſaid enough to convince the Obſtinate. Had I expected the Objection, I ſhould have added what follows in the Solution of the <hi>Problem,</hi> P. 7. of the <hi>Diſ<g ref="char:EOLhyphen"/>ſertation.</hi> Note that this Expreſſion <hi>Die</hi> 10
+<pb n="25" facs="tcp:133306:14"/>
+                     <hi>Auguſti anni</hi> 1697, is very different from this, <hi>Die</hi> 10 <hi>Auguſti poſt annum</hi> 1697; for the firſt ſignifies that 1697 is the running Year, and the other ſhows that it is paſt. All Hiſtorians reckon according to this firſt way, placing every Event in the running Year; and when they place it after the Year is compleated, they expreſs themſelves the other way.</p>
+                  <p>Moreover, the Quotus Years of the Cen<g ref="char:EOLhyphen"/>turies are reckon'd like the Quotus Days of the Months. When a Deed is dated at a Notaries on the 21ſt of <hi>March,</hi> it do's not ſig<g ref="char:EOLhyphen"/>nify, that the ſaid 21ſt Day is paſt or com<g ref="char:EOLhyphen"/>pleated, but that it is actually running on: So when a Deed is dated of a certain Year; for Inſtance, the 15th of <hi>March</hi> 1699, it is underſtood, to be the 15th running Day of the 1699th running Year, and not the running Day after the 15th compleat<g ref="char:EOLhyphen"/>ted, or the running Year after the 1699th Year compleated: For it would be ridiculous to date a Deed in the preſent Year 1699, ſuppoſing the ſaid 1699 to be actually re<g ref="char:EOLhyphen"/>volv'd and compleated; in which caſe one ſhould be oblig'd to add the time Elaps'd
+<pb n="26" facs="tcp:133306:15"/>ſince the Completion of the ſaid 1699. which is never done.</p>
+                  <p>In order to be evidently convinc'd that the Civil Year, for inſtance, 1699, is the 1699th running Year of the Chriſtian <hi>Era,</hi> it will be ſufficient to obſerve the Calculation of the Aſtronomers, who make uſe of revolv'd com<g ref="char:EOLhyphen"/>pleated ſpaces of Time: When they go about to find the true place of the Sun in the Eclip<g ref="char:EOLhyphen"/>tick, they firſt of all reduce the Civil Time in<g ref="char:EOLhyphen"/>to an Aſtronomical Time, taking whatever is compleated, ſolid, and revolv'd in the running time. For inſtance, having a mind to find the true place of the Sun in the Eclip<g ref="char:EOLhyphen"/>tick, on the 25th of <hi>January</hi> in the Year 1699, at 4 in the Morning, I muſt take in order thereunto the whole compleated Time, that is, 1698 compleated, 23 Days, 16 Hours, after which the remainder of the Calculati<g ref="char:EOLhyphen"/>on is to be made, according to Aſtronomi<g ref="char:EOLhyphen"/>cal Rules. In the like manner this Civil Time, the 4th of <hi>January</hi> at Noon of the Year 1700, being reduc'd to an Aſtronomical Time, it will make 1699 compleated, and 3 Days into the Month of <hi>January,</hi> and conſequently,
+<pb n="27" facs="tcp:133306:15"/>when we do begin to reckon 1700, there will only be 1699 Years revolv'd and compleated. Therefore the Year from 1700 to 1701, is the laſt of this Century.</p>
+                  <p>But after this Digreſſion, let us return to your Letter. You ſay that it is not neceſſary to know what the <hi>Chriſtian Era is, nor when Years were firſt reckon'd.</hi> Which way then will you know what Year you are in, if you do not know that the firſt Year of the <hi>Chriſtian Era</hi> had 2 for its Golden Number, and B for the Do<g ref="char:EOLhyphen"/>minical Letter, and that it is of neceſſity af<g ref="char:EOLhyphen"/>fix'd to the 46th <hi>Julian</hi> Year. One would be apt to think by your words, that you make a difference between the Chriſtian and the com<g ref="char:EOLhyphen"/>mon <hi>Era,</hi> and yet, I muſt tell you by the by, that it is one and the ſame thing. You add, <hi>That it is ſufficient to know that it is uſual to reckon from the Nativity of Jeſus Chriſt</hi> to this preſent time 1699 Years begun. You would have ſpoken more juſtly, had you ſaid from the Moment in which <hi>Dennis the Little</hi> has ſuppos'd the Na<g ref="char:EOLhyphen"/>tivity of <hi>Jeſus Chriſt.</hi>
+                  </p>
+                  <p>You pretend, in the firſt place, to give a convincing Demonſtration, that 1701 is the
+<pb n="28" facs="tcp:133306:16"/>firſt of the Century, and thereby to cloſe the Mouths of thoſe, who, in your Opinion, are ſo deſtitute of Senſe as to ſay, that 1700 is not the laſt of this Century. You demonſtrate it thus, 1700 <hi>compleated Years make up</hi> 17 <hi>compleat<g ref="char:EOLhyphen"/>ed Centuries; Ergo, the Year</hi> 1700 <hi>ended, is not the beginning of the next Century</hi> In my Opinion, you do not cloſe the Mouths of ſuch as might retort your Argument upon you, ſaying, There<g ref="char:EOLhyphen"/>fore the Year 1700 being ended, the firſt Year of the next Century will begin: For their dif<g ref="char:EOLhyphen"/>ficulty only conſiſts in ſaying, that the Years are only reckon'd ſuch at the end thereof. Wherefore, ſay they, as ſoon as 1700 will be reckon'd, 1700 will be compleated; and when 1701 will be reckon'd, the Year 1701 will be compleated.</p>
+                  <p>Let us now, I beſeech you, return to your Oxen and Sheep. <hi>The Number of Years,</hi> ſay you, <hi>is (for Inſtance) like the number of Sheep, of Oxen, of Pounds,</hi> &amp;c. <hi>It cannot be ſaid juſtly, that</hi> 100 <hi>of Sheep, Oxen, Pounds,</hi> &amp;c. <hi>are the be<g ref="char:EOLhyphen"/>ginning of a ſecond</hi> 100, <hi>that is true. Therefore</hi> 17 <hi>compleated Centuries have nothing of the</hi> 18. This is true ſtill. But if 17 Centuries are
+<pb n="29" facs="tcp:133306:16"/>compleated as ſoon as we begin to reckon 1700, the whole Year from the time we be<g ref="char:EOLhyphen"/>gin to reckon 1700, until we begin to ſay 1701, will be the firſt of the 18th Century. Juſt as when you begin to reckon 100 Oxen, the next Ox after you have begun to reckon 100, until you begin to reckon 101, is the firſt of the ſecond 100. Therefore if you will avoid falling into this Inconveniency, you muſt reckon the Spaces of Time otherwiſe than you reckon Oxen and Sheep, and obſerve that the <hi>Cardinal Number</hi> is only apply'd at the end of thoſe Spaces; but that the <hi>Ordinal Num<g ref="char:EOLhyphen"/>ber</hi> may always be apply'd from the beginning of every Space unto the end: As we ſay that a Man is 30 Years old when they are compleat<g ref="char:EOLhyphen"/>ed; but that he is in his 30th Year, when the 30th Year is begun. You add, <hi>All theſe Terms are fitter for the Schools, than to reſolve ſuch ridi<g ref="char:EOLhyphen"/>culous Queſtions.</hi> As if it were unlawful, out of the Schools, to mend <hi>Latin</hi> and <hi>French</hi> Ex<g ref="char:EOLhyphen"/>preſſions, to diſcover the nature of the Ideas they are to excite. 'Tis in that place you in<g ref="char:EOLhyphen"/>form me, that the Holy Ghoſt inſpires you to call all thoſe Fools and Idiots who make Que<g ref="char:EOLhyphen"/>ſtions
+<pb n="30" facs="tcp:133306:17"/>of this nature. I am not offended at thoſe Words taken out of the Proverbs of <hi>So<g ref="char:EOLhyphen"/>lomon,</hi> which are very edifying in the holy Bi<g ref="char:EOLhyphen"/>ble; but ill apply'd by you: For if you mean them to me, your Neighbour will not be much edify'd at your treating a Miniſter of <hi>J. C.</hi> thus; and one who has always been your Friend. If you apply 'em to others who have propos'd the ſame Queſtion, you are uncha<g ref="char:EOLhyphen"/>ritable; ſeeing that Perſons of great Wiſdom, whom you ought to reverence, have made 'em before me. And among the reſt, a very worthy Doctor in Divinity, who propos'd the ſame Queſtion in a Journal to the Learned; and affirms, that 1700 is the firſt Year of the next Century. I am,</p>
+                  <closer>
+                     <salute>SIR,</salute> 
+                     <signed>Your moſt affectionate Servant, <hi>De L'Aiſement,</hi> Academical Profeſſor.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133306:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
